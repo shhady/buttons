@@ -1,0 +1,144 @@
+
+.container{
+    width: 100%;
+    /* max-width: 100%; */
+    margin: 0;
+    padding: 0;
+    background-color: rgb(65, 65, 65);
+}
+
+.flat h1{
+    text-align: center;
+    color: white;
+}
+button {
+    width:100px ;
+    margin-left: 25px;
+}
+.buttons{
+    text-align: center;
+}
+
+
+#RF {
+    background-color: rgb(79, 252, 79);
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+#RF:hover{
+    background: rgb(64, 102, 8);
+}
+#CF {
+    background-color: rgb(202, 14, 14);
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+#CF:hover{
+    background: rgb(122, 48, 48);
+}
+#SF{
+    background-color: blue;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+}
+#SF:hover{
+    background: rgb(113, 113, 247);
+}
+
+
+
+#RR {
+    background-color: orange;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+}
+#RR:hover{
+    background: rgb(104, 68, 2);
+}
+#CR {
+    background-color: yellow;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+}
+#CR:hover{
+    background: rgb(77, 77, 2);
+}
+#SR{
+    background-color:rgb(201, 200, 200);
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+}
+#SR:hover{
+    background: rgb(75, 74, 74);
+}
+
+
+#RFG {
+    background-color: transparent;
+    border-color: rgb(79, 252, 79);
+    padding: 10px 20px;
+    color: white;
+}
+#RFG:hover{
+    background: rgb(79, 252, 79);
+}
+#CFG {
+    background-color: transparent;
+    border-color: rgb(202, 14, 14);
+    padding: 10px 20px;
+    color: white;
+}
+#CFG:hover{
+    background: rgb(202, 14, 14);
+}
+#SFG{
+    background-color: transparent;
+    border-color: blue;
+    padding: 10px 20px;
+    color: white;
+}
+#SFG:hover{
+    background: blue;
+}
+
+
+#RRG {
+    background-color: transparent;
+    border-color: orange;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+}
+#RRG:hover{
+    background: orange;
+}
+#CRG {
+    background-color: transparent;
+    border-color: yellow;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+}
+#CRG:hover{
+    background: yellow;
+}
+#SRG{
+    background-color: transparent;
+    /* border: 3px; */
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    border-color: grey;
+}
+#SRG:hover{
+    background: grey;
+}
